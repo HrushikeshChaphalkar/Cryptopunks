@@ -1,2 +1,2 @@
 # Cryptopunks
-App : https://share.streamlit.io/hrushikeshchaphalkar/cryptopunks
+**App link**: [Generate CryptoPunks](https://share.streamlit.io/hrushikeshchaphalkar/cryptopunks)
