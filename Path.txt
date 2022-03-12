@@ -1,0 +1,4 @@
+C:\Users\Pradeep\Desktop\Projects\Demo
+
+To disable autosave in jupyter:
+	%autosave 0
