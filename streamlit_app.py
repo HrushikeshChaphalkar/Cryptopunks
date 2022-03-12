@@ -24,6 +24,6 @@ if random:
         plt.axis('off')
     st.pyplot(fig)
     st.success('Done!')
-    st.text("Press Generate for more")
+    st.text("Click to Generate more CryptoPunks")
 else:
-    st.text("Press the Button")
+    st.text("Click to Generate new CryptoPunks")
