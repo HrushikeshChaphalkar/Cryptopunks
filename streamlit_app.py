@@ -4,9 +4,9 @@ import tensorflow as tf
 import time
 
 
-#generator = tf.keras.models.load_model('saved_model\saved_model\generator_100')
+#generator = tf.keras.models.load_model('saved_model\generator_100')
 #Changing path format for Github
-generator = tf.keras.models.load_model('saved_model\saved_model\generator_100')
+generator = tf.keras.models.load_model('saved_model/generator_100')
 
 st.set_page_config(page_title="Generate CryptoPunk")
 st.title('CryptoPunk')
